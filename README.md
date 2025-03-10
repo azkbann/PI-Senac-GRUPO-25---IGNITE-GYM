@@ -57,7 +57,7 @@ Este aplicativo é uma maneira conveniente e fácil de manter-se saudável e em 
 **Clone este repositório**
 
 ```bash
-git clone git@github.com:vitorsemidio-dev/rn-ignite-gym.git
+git clone git@github.com:azkbann/PI-Senac-GRUPO-25---IGNITE-GYM.git          
 ```
 
 **Acesse a pasta**
