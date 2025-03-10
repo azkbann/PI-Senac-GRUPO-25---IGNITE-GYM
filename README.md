@@ -63,7 +63,7 @@ git clone git@github.com:azkbann/PI-Senac-GRUPO-25---IGNITE-GYM.git
 **Acesse a pasta**
 
 ```bash
-cd rn-ignite-gym.git
+cd PI-Senac-GRUPO-25---IGNITE-GYM.git
 ```
 
 ### 🔑 Variáveis Ambiente
